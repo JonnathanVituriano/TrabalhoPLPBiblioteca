@@ -8,7 +8,7 @@
 
 ## 1. Integrantes do Grupo
 
-- **Jonnathan Vituriano** - Matrícula / Função: Desenvolvimento, Modelagem e Testes
+- **Jonnathan Vituriano** - 34629963 / Função: Desenvolvimento, Modelagem e Testes
 
 ---
 
